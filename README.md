@@ -40,9 +40,6 @@
 
 </td><td valign="top" width="20%">
 
-
-
-
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
 </div>
@@ -52,7 +49,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-suyeon&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-suyeon&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
