@@ -10,9 +10,9 @@
 ## My Skill Set  
 <table>
 <tr>
-  <td>### Frontend</td>
-  <td>### Backend</td>
-  <td>### DevOps  </td>
+  <td>Frontend</td>
+  <td>Backend</td>
+  <td>DevOps</td>
 </tr>
   
 <tr><td valign="top" width="40%">
