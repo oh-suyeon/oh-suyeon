@@ -1,7 +1,8 @@
 ### I'm Oh Suyeon, a full-stack junior developer 👨‍💻   
   
 
-- ✏️I’m currently posting on [Tech Blog](https://yeonnal.tistory.com/)  
+- ✏️ I’m currently posting on [Tech Blog](https://yeonnal.tistory.com/)
+- ✉️ suyeon.oh.dev@gmail.com
   
 
 <br/>  
