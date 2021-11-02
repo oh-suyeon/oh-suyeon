@@ -11,9 +11,9 @@
 ## My Skill Set  
 <table>
 <tr>
-  <td>Frontend</td>
-  <td>Backend</td>
-  <td>DevOps</td>
+  <td align="center">Frontend</td>
+  <td align="center">Backend</td>
+  <td align="center">DevOps</td>
 </tr>
   
 <tr><td valign="top" width="300px">
