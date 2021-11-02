@@ -15,7 +15,7 @@
   <td>### DevOps  </td>
 </tr>
   
-<tr><td valign="top" width="33%">
+<tr><td valign="top" width="40%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -26,7 +26,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
  
 <div align="center">  
@@ -38,7 +38,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 
 
