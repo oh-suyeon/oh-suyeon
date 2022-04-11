@@ -1,4 +1,3 @@
-### I'm Oh Suyeon, a full-stack junior developer 👨‍💻   
   
 - ✉️ suyeon.oh.dev@gmail.com
   
